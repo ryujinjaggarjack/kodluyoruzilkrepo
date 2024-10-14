@@ -10,4 +10,4 @@
 # Contributing
 ## Pull requestler kabul edilir.Buyuk degisiklikler icin; once neyi degistirmek istediginiz tartismak icin bir konu aciniz
 # License
-## [MIT]
+## (MIT)
